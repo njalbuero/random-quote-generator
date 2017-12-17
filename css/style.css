@@ -1,0 +1,32 @@
+body{
+  background: #263238;
+  margin-top: 20px;
+}
+
+.container{
+  color: white;
+  background: rgba(0,0,0,.25);
+  padding: 50px;
+  border-radius: 10px;
+}
+
+#text-container{
+  min-height: 100px;
+  font-family: Roboto, sans-serif;
+}
+
+.btn{
+  background-color: #006064;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: .5rem;
+  background-color: #006064;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
